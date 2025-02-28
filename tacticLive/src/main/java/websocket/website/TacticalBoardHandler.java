@@ -1,4 +1,4 @@
-package websocket.website.tacticLive;
+package websocket.website;
 
 import org.springframework.web.socket.CloseStatus;
 import org.springframework.web.socket.TextMessage;
